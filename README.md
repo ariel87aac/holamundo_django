@@ -1,2 +1,2 @@
 # holamundo_django
-# mi primer proyectogit
+# mi primer proyectogit Django
